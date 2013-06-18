@@ -1,4 +1,4 @@
-{-# LANGUAGE PackageImports, GADTs, KindSignatures, StandaloneDeriving, EmptyDataDecls, FlexibleInstances, OverloadedStrings #-}
+{-# LANGUAGE GADTs, KindSignatures, StandaloneDeriving #-}
 
 module Terms(Ident, Irr(..), Identifier(..), Sort(..), 
              Term(..), 

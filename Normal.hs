@@ -1,4 +1,4 @@
-{-# LANGUAGE GADTs, KindSignatures, OverloadedStrings, EmptyDataDecls, StandaloneDeriving, TypeSynonymInstances, TypeFamilies, MultiParamTypeClasses, ViewPatterns, RankNTypes #-}
+{-# LANGUAGE GADTs, KindSignatures, EmptyDataDecls, StandaloneDeriving,  RankNTypes #-}
 module Normal where
 
 import Prelude hiding (length,elem,foldl)

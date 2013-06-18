@@ -1,4 +1,4 @@
-{-# LANGUAGE PackageImports, TypeSynonymInstances, FlexibleInstances, GADTs, PatternGuards, GeneralizedNewtypeDeriving #-}
+{-# LANGUAGE GADTs, PatternGuards, GeneralizedNewtypeDeriving #-}
 
 -- Type checker loosely based on 
 --
